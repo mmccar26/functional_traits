@@ -1,4 +1,4 @@
-McCary and Schmitz 2020 
+McCary and Schmitz 2021 
 
 Data and scripts for the manuscript entitled "Invertebrate functional traits and terrestrial nitrogen cycling: insights from a global meta-analysis "
 
